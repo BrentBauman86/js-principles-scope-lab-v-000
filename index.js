@@ -1,4 +1,4 @@
 // Write your solution in this file!
 var customerName = "bob";
 
-customerName = upperCaseCustomerName("bob");
+var upperCaseCustomerName("bob");
